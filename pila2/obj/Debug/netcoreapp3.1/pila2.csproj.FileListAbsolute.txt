@@ -1,0 +1,13 @@
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\bin\Debug\netcoreapp3.1\pila2.exe
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\bin\Debug\netcoreapp3.1\pila2.deps.json
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\bin\Debug\netcoreapp3.1\pila2.runtimeconfig.json
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\bin\Debug\netcoreapp3.1\pila2.runtimeconfig.dev.json
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\bin\Debug\netcoreapp3.1\pila2.dll
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\bin\Debug\netcoreapp3.1\pila2.pdb
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\obj\Debug\netcoreapp3.1\pila2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\obj\Debug\netcoreapp3.1\pila2.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\obj\Debug\netcoreapp3.1\pila2.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\obj\Debug\netcoreapp3.1\pila2.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\obj\Debug\netcoreapp3.1\pila2.dll
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\obj\Debug\netcoreapp3.1\pila2.pdb
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pila2\obj\Debug\netcoreapp3.1\pila2.genruntimeconfig.cache
