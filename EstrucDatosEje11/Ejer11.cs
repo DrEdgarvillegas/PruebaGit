@@ -12,8 +12,10 @@ namespace EstrucDatosEje11
     {
         private static void Main(string[] args)
         {
-                       
 
+            LeerCSV leerCSV = new LeerCSV();
+
+           
 
 
         }
