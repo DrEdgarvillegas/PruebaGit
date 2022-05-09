@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pract6Ejer2/1.0.0": {
+        "runtime": {
+          "Pract6Ejer2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pract6Ejer2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
