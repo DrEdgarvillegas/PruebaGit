@@ -30,17 +30,12 @@ namespace Ejercicio4
                return false;
             else
             {
-
                 this.gas += entradagas;
-                return true;
-                
-            }
-
-                
+                return true;                
+            }               
 
         }
         public int gas { get; set; }
-
 
         public Coche(int gas)
         {

@@ -1,0 +1,14 @@
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\bin\Debug\netcoreapp3.1\pract6ejer1.exe
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\bin\Debug\netcoreapp3.1\pract6ejer1.deps.json
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\bin\Debug\netcoreapp3.1\pract6ejer1.runtimeconfig.json
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\bin\Debug\netcoreapp3.1\pract6ejer1.runtimeconfig.dev.json
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\bin\Debug\netcoreapp3.1\pract6ejer1.dll
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\bin\Debug\netcoreapp3.1\pract6ejer1.pdb
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.dll
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.pdb
+C:\Users\edgar\OneDrive\Escritorio\pruebagit\pract6ejer1\obj\Debug\netcoreapp3.1\pract6ejer1.genruntimeconfig.cache
